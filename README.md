@@ -1,4 +1,4 @@
-# github-subfolder-to-md
+# github-subfolder-to-md 
 
 Simple Bash script to save markdown files from any GitHub repository subfolder and combine them into a single markdown file. Useful for quickly creating markdown documentation context for open-source packages and libraries.
 
