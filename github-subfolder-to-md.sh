@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 for cmd in curl jq unzip tree; do
     if ! command -v $cmd &> /dev/null; then
         echo "Error: $cmd is required but not installed."
